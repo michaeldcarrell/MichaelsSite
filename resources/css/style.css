@@ -168,10 +168,14 @@ h1 a:visited {
   background-color: #ddd
 }
 
-.individual-bio {
+.individual-tag {
   left: -10px;
   float: left;
   margin: 80px;
+}
+
+.individual-bio {
+
 }
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
