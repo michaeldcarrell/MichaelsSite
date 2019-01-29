@@ -21,8 +21,8 @@ body {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),
-   url(img/Family2018-104.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)),
+   url(img/MichaelHanna.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -46,7 +46,7 @@ h2 {
 }
 
 .row {
-  max-width: 1140px;
+  /*max-width: 1140px;*/
   margin: 0 auto;
 }
 
@@ -72,6 +72,7 @@ h2 {
   float: right;
   list-style: none;
   margin-top: 10px;
+  margin-right: 20px;
 }
 
 h1 a:link,
