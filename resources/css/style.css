@@ -53,8 +53,8 @@ h2 {
 .carrell-header,
 .individual-header {
   position: relative;
-  top: 8%;
-  left: 20%;
+/*  top: 8%;
+  left: 80px;*/
   transform: translate(-50%, -50%);
   float: left;
   margin: 80px;
