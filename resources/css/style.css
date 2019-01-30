@@ -46,13 +46,14 @@ h2 {
 }
 
 .row {
-  max-width: 100%;
+  max-width: 1140px;
   margin: 0 auto;
 }
 
-.carrell-header {
+.carrell-header,
+.individual-header {
   position: relative;
-  top: 12%;
+  top: 8%;
   left: 20%;
   transform: translate(-50%, -50%);
   float: left;
@@ -63,14 +64,14 @@ h2 {
   margin: 20px;
 }
 
-.individual-header {
+/*.individual-header {
   position: absolute;
   top: 0%;
   left: 20%;
   transform: translate(-50%, -50%);
   float: left;
   margin: 60px;
-}
+}*/
 
 .main-nav {
   float: right;
