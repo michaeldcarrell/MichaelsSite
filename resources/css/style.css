@@ -46,7 +46,8 @@ h2 {
 }
 
 .row {
-  max-width: 1140px;
+  max-width: 95%;
+
   margin: 0 auto;
 }
 
@@ -63,6 +64,7 @@ h2 {
 .tagline {
   margin-top: 100px;
   margin-left: -10px;
+  font-size: 150%;
 }
 
 /*.individual-header {
