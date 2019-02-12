@@ -45,6 +45,14 @@ h2 {
   letter-spacing: 1px;
 }
 
+h3 {
+  margin-top: 0;
+  color: #dcdde1;
+  font-size: 65%;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+}
+
 .row {
   max-width: 95%;
 
@@ -81,14 +89,6 @@ h2 {
   list-style: none;
   margin-top: 10px;
   margin-right: 20px;
-}
-
-h1 a:link,
-h1 a:visited {
-  color: #dcdde1;
-  font-size: 100%;
-  border-bottom: 2px solid transparent;
-  text-decoration: none;
 }
 
 .large-icon {
@@ -205,4 +205,16 @@ h1 a:visited {
 .ce-logo:visited {
   color: #dcdde1;
   text-decoration: none;
+}
+
+.tagline h1 {
+  font-size: 140%;
+}
+
+.tagline h2 {
+  font-size: 90%;
+}
+
+.carrell-header h1 {
+    border-bottom: 2px solid #dcdde1;
 }
